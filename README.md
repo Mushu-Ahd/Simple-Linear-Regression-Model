@@ -1,2 +1,3 @@
 # Simple-Linear-Regression-Model
-This model will predict the Salary on the basis of the input which is CGPA. It's a simple linear Regression model and will be closer to the actual Salary . &lt;btw This the 3rd model I developed by myself.>
+I've developed a basic linear regression model using a placement dataset comprising only two columns: CGPA and Placement. Focused on simplicity, this model predicts Placement salary based on CGPA. While not providing precise salary figures, it offers estimations closely aligned with CGPA. It serves as a foundational tool for predicting salaries based on academic performance.
+ &lt;btw This the 3rd model I developed by myself.>
